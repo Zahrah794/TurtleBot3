@@ -4,7 +4,7 @@ This guide provides a brief overview of the process to install TurtleBot3 and pe
 
 To install TurtleBot3, ensure that you have a computer running Ubuntu 18.04 or higher and have ROS Melodic or ROS Noetic installed.
 
-## ROS Melodic (Ubuntu 18.04):
+## ROS workspace for TurtleBot3 :
 
 ```
 $ cd ~/catkin_ws/src
